@@ -1,0 +1,67 @@
+E:\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe.config
+E:\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+E:\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.LoginForm.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.SignUpForm.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminDashboard.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_AddUser.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_AddItem.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_DeleteItem.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_DeleteUser.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_SalesReport.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_UpdateItem.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_UpdateUser.resources
+E:\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_Dashboard.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\bin\Debug\CafeManagementSystem.exe
+C:\Users\Waleed khan\Documents\CafeManagementSystem\bin\Debug\CafeManagementSystem.pdb
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.AdminDashboard.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_AddItem.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_AddUser.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_DeleteItem.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_DeleteUser.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_SalesReport.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_UpdateItem.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_UpdateUser.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Properties.Resources.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_Dashboard.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.GenerateResource.cache
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.exe
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.pdb
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Customer_CancelOrder.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Customer_Dashboard.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Customer_GiveFeedback.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Customer_PlaceOrder.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Customer_ReserveTable.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_AddItem.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Homepage.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Customer_LoginForm.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.customer_SignUpForm.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_LoginForm.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_SignUpForm.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_LoginForm.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_SignUpForm.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_AddTable.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_DeleteTable.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_ManageInventory.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Admin_UpdateTable.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.LoadingPage.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.SignUpForm.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_CustomerTrends.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_DeleteItem.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_Handle_Feedback.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_HandleOrder.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_ItemTrends.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_TableReservation.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeManagementSystem.Staff_UpdateItem.resources
+C:\Users\Waleed khan\Documents\CafeManagementSystem\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Waleed khan\Documents\CafeManagementSystem\bin\Debug\itextsharp.dll
+C:\Users\Waleed khan\Documents\CafeManagementSystem\bin\Debug\itextsharp.xml
+C:\Users\Waleed khan\Documents\CafeManagementSystem\obj\Debug\CafeMana.32F80087.Up2Date
